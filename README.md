@@ -14,5 +14,5 @@ Hello! Welcome to my profile
 
 ### About
 
-![patrickmouradev stats](https://github-readme-stats.codestackr.vercel.app/api?username=Edufreitass&show_icons=true&theme=radical&hide_border=true)
+![patrickmouradev stats](https://github-readme-stats-codestackr.vercel.app/api?username=patrickmouradev&show_icons=true&theme=radical&hide_border=true)
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Edufreitass&layout=compact)](https://github.com/Edufreitass/github-readme-stats) -->
